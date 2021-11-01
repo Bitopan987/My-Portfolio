@@ -4,7 +4,7 @@ import fileSaver from 'file-saver';
 export default function About() {
   const saveFile = () => {
     fileSaver.saveAs(
-      process.env.PUBLIC_URL + '/assets/SKumarResume.pdf',
+      process.env.PUBLIC_URL + '/assets/ShishupalKrResume.pdf',
       "Shishupal'sResume.pdf"
     );
   };
