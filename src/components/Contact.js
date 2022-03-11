@@ -59,21 +59,21 @@ export default function Contact() {
           <nav className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md mb-10">
             <div className="lg:w-1/2 px-6 flex flex-col justify-between text-xl h-40 mb-10">
               <a
-                href="https://github.com/shishupalamigo"
+                href="https://github.com/Bitopan987"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fab fa-github mr-1"></i>GitHub
               </a>
               <a
-                href="https://www.linkedin.com/in/shishupal-kumar-90734594/"
+                href="https://www.linkedin.com/in/bitopan-deka-850285234/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fab fa-linkedin mr-1"></i>LinkedIn
               </a>
               <a
-                href="https://twitter.com/shishupalamigo"
+                href="https://twitter.com/Bitopanxon"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -82,14 +82,14 @@ export default function Contact() {
             </div>
             <div className="lg:w-1/2 px-6 flex flex-col text-xl h-40 justify-between">
               <a
-                href="https://medium.com/@shishupalamigo"
+                href="https://medium.com/@bitopanxon1"
                 target="_blank"
                 rel="noreferrer"
               >
                 <i className="fab fa-medium mr-1"></i>Medium
               </a>
               <a
-                href="https://www.codewars.com/users/shishupal"
+                href="https://www.codewars.com/users/Bitopan987"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center"
@@ -100,17 +100,6 @@ export default function Contact() {
                   className="h-5 w-5 mr-1"
                 />
                 Codwars
-              </a>
-              <a
-                href="https://hashnode.com/@Shishupalamigo"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <img
-                  src="/brand-full.png"
-                  alt="codewars"
-                  className="h-5 w-15 mr-1"
-                />
               </a>
             </div>
           </nav>
@@ -132,12 +121,12 @@ export default function Contact() {
                 className="text-indigo-400 leading-relaxed"
                 href="mailto:shishuplkr2595@gmail.com"
               >
-                shishuplkr2595@gmail.com
+                bitopanxon1@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">+91-7860378824</p>
+              <p className="leading-relaxed">9395642144</p>
             </div>
           </div>
         </div>

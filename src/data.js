@@ -5,8 +5,8 @@ export const projects = [
     description:
       'This project is a replica of real life conduit app. Made using React-redux.',
     image: './assets/projects/blogAlt.png',
-    liveLink: 'https://blog-alt.netlify.app/',
-    repoLink: 'https://github.com/shishupalamigo/Blog_App_using_Hooks',
+    liveLink: 'https://dazzling-poincare-89a7b7.netlify.app/',
+    repoLink: 'https://github.com/Bitopan987/Blog_App_Using_Hooks',
   },
   {
     title: 'Conduit API',
@@ -14,16 +14,20 @@ export const projects = [
     description:
       'RESTfull API using ExpressJS for conduit and mongoDB Altlas for database',
     image: './assets/projects/blogAlt.png',
-    liveLink: 'https://conduit-api-app.herokuapp.com/api/',
-    repoLink: 'https://github.com/shishupalamigo/Conduit-API',
+    liveLink:
+      'https://github.com/Bitopan987/TA-AC-BACKEND-JWT-based-authentication-TNaaak/tree/block-BNaaen',
+    repoLink:
+      'https://github.com/Bitopan987/TA-AC-BACKEND-JWT-based-authentication-TNaaak/tree/block-BNaaen',
   },
   {
     title: 'Shopping Cart',
     subtitle: 'React App',
     description: 'E-commerce shopping cart made using React and Redux',
     image: './assets/projects/shoppingCart.png',
-    liveLink: 'https://cartshoppingapp.netlify.app/',
-    repoLink: 'https://github.com/shishupalamigo/shopping_Cart_using_Hooks',
+    liveLink:
+      'https://6229d91f49b0831047b7825b--vigorous-murdock-5f3d59.netlify.app/',
+    repoLink:
+      'https://github.com/Bitopan987/Shopping-Cart-using-Hooks/tree/master/block-BRaabw',
   },
   {
     title: 'GitHub Star Battle',
@@ -31,16 +35,17 @@ export const projects = [
     description:
       'A React App using Github API to show top repositories on GitHub.',
     image: './assets/projects/githubStarBattle.png',
-    liveLink: 'https://github-star-battle.netlify.app/',
-    repoLink: 'https://github.com/shishupalamigo/Github_Battle_using_Hooks',
+    liveLink:
+      'https://6229f187abc2d817d10f645b--flamboyant-yalow-6e6241.netlify.app/',
+    repoLink: 'https://github.com/Bitopan987/GitHub--Battle-Hooks',
   },
   {
     title: 'Code Editor',
     subtitle: 'React App',
     description: 'This is a live code editor for HTML/CSS made using React',
     image: './assets/projects/codeEditor1.png',
-    liveLink: 'https://live-htmlcss-editor.netlify.app/',
-    repoLink: 'https://github.com/shishupalamigo/Code-Editor',
+    liveLink: 'https://happy-brattain-91d26b.netlify.app/',
+    repoLink: 'https://github.com/Bitopan987/Code-Editor',
   },
   {
     title: 'uniTech Website',
@@ -49,33 +54,33 @@ export const projects = [
       'This is a business website made using HTML and CSS written as SCSS',
     image: './assets/projects/uniTech.png',
     liveLink:
-      'https://shishupalamigo.github.io/TA-STYLE-Sass-SCSS-THaaan/block-BHaacu/index.html',
+      'https://bitopan987.github.io/Final-Checkpoint-Advance-CSS/index.html',
     repoLink:
-      'https://github.com/shishupalamigo/TA-STYLE-Sass-SCSS-THaaan/tree/block-BHaacu/block-BHaacu',
+      'https://bitopan987.github.io/Final-Checkpoint-Advance-CSS/index.html',
   },
 ];
 
 export const blogs = [
   {
-    title: 'Scope And Closure in JavaScript',
+    title: 'Primitive vs Non-Primitive data type in JavaScript',
     description:
-      'Scope and Closure are two very important concepts in JavaScript. A good understanding these two concepts can make your life easier as a JavaScript developer.',
+      'Primitive vs Non-Primitive data type in JavaScript which is very basic javascript and developers should have the knowledge of it',
     published: 'MEDIUM',
-    link: 'https://medium.com/@shishupalamigo/scope-and-closure-in-javascript-f6943866a288',
+    link: 'https://bitopanxon1.medium.com/primitive-vs-non-primitive-data-type-in-javascript-fad8d9734be7',
   },
   {
-    title: 'DOM (Document Object Model)',
+    title: 'Implicit type coercion in comparison (JavaScript)',
     description:
-      'The Document Object Model, or the “DOM”, defines the logical structure of HTML documents & essentially acts as an interface to web pages. Through the use of programming languages such as JavaScript, we can access the DOM to manipulate websites and make them interactive.',
-    published: 'HASHNODE',
-    link: 'https://shishupalamigo.hashnode.dev/dom-document-object-model',
+      'When it’s come to JavaScript we have many comparison operators. When we compare different types of data some operators behave differently. This behavior is called implicit type coercion.',
+    published: 'MEDIUM',
+    link: 'https://bitopanxon1.medium.com/implicit-type-coercion-in-comparison-javascript-ab4d2dafc0f4',
   },
   {
-    title: 'Opening The Box Model — The Basics',
+    title: 'Git and GitHub',
     description:
-      'Styling HTML elements can be tricky sometimes. Understanding the concepts of the Box Model and knowing how the width and height of elements are calculated will surely help in doing it better.',
+      ' Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. ',
     published: 'MEDIUM',
-    link: 'https://medium.com/@shishupalamigo/opening-the-box-model-the-basics-a5f1311bd02b',
+    link: 'https://bitopanxon1.medium.com/git-and-github-89b4fa683a2b',
   },
 ];
 
