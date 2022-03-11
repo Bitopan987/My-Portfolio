@@ -119,7 +119,7 @@ export default function Contact() {
               </h2>
               <a
                 className="text-indigo-400 leading-relaxed"
-                href="mailto:shishuplkr2595@gmail.com"
+                href="mailto:bitopanxon1@gmail.com"
               >
                 bitopanxon1@gmail.com
               </a>

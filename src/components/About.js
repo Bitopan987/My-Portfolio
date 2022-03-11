@@ -5,7 +5,7 @@ export default function About() {
   const saveFile = () => {
     console.log(process.env);
     fileSaver.saveAs(
-      process.env.PUBLIC_URL + '/assets/BitopanResume.pdf',
+      process.env.PUBLIC_URL + '/assets/Resume.pdf',
       "Bitopan'sResume.pdf"
     );
   };
