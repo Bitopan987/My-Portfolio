@@ -3,11 +3,7 @@ import fileSaver from 'file-saver';
 
 export default function About() {
   const saveFile = () => {
-    console.log(process.env);
-    fileSaver.saveAs(
-      process.env.PUBLIC_URL + '/assets/Resume.pdf',
-      "Bitopan'sResume.pdf"
-    );
+    fileSaver.saveAs('./assets/Resume1.pdf', "Bitopan's Resume1.pdf");
   };
   return (
     <section id="about">
