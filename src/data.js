@@ -30,6 +30,15 @@ export const projects = [
       'https://github.com/Bitopan987/Shopping-Cart-using-Hooks/tree/master/block-BRaabw',
   },
   {
+    title: 'Quiz App',
+    subtitle: 'React App',
+    description:
+      'Quiz App containing three difficulty Easy, Medium or Hard using React',
+    image: './assets/projects/quiz.png',
+    liveLink: 'https://jolly-strudel-b4b4c8.netlify.app/',
+    repoLink: 'https://github.com/Bitopan987/Quiz-App',
+  },
+  {
     title: 'GitHub Star Battle',
     subtitle: 'React App',
     description:
@@ -48,15 +57,13 @@ export const projects = [
     repoLink: 'https://github.com/Bitopan987/Code-Editor',
   },
   {
-    title: 'uniTech Website',
+    title: 'Flexor Website',
     subtitle: 'HTML/SCSS Project',
     description:
       'This is a business website made using HTML and CSS written as SCSS',
     image: './assets/projects/uniTech.png',
-    liveLink:
-      'https://bitopan987.github.io/Final-Checkpoint-Advance-CSS/index.html',
-    repoLink:
-      'https://bitopan987.github.io/Final-Checkpoint-Advance-CSS/index.html',
+    liveLink: 'https://bitopan987.github.io/Assignment-Checkpoint-4/',
+    repoLink: 'https://bitopan987.github.io/Assignment-Checkpoint-4/#',
   },
 ];
 
