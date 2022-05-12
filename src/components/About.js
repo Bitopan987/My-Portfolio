@@ -3,7 +3,7 @@ import fileSaver from 'file-saver';
 
 export default function About() {
   const saveFile = () => {
-    fileSaver.saveAs('./assets/Resume1.pdf', "Bitopan's Resume1.pdf");
+    fileSaver.saveAs('./assets/resume11.pdf', "Bitopan's Resume1.pdf");
   };
   return (
     <section id="about">
