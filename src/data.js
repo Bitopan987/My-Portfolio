@@ -9,6 +9,24 @@ export const projects = [
     repoLink: 'https://github.com/Bitopan987/Blog_App_Using_Hooks',
   },
   {
+    title: 'MMT Clone',
+    subtitle: 'Frontend Project',
+    description:
+      'React App using redux where users can search the flights Based on the user query',
+    image: './assets/projects/mmt.png',
+    liveLink: 'https://extraordinary-pony-50a341.netlify.app/',
+    repoLink: 'https://github.com/Bitopan987/MMT-Clone',
+  },
+  {
+    title: 'Hotel Booking',
+    subtitle: 'Frontend Project',
+    description:
+      'Please consider these login credentials: Stimulus Template(Email:bitopan@gmail.com Password: hello123',
+    image: './assets/projects/hotel.png',
+    liveLink: 'https://booking-e1px.onrender.com/',
+    repoLink: 'https://github.com/Bitopan987/Hotel-Booking',
+  },
+  {
     title: 'Conduit API',
     subtitle: 'Backend Project, Realworld API',
     description:
@@ -48,14 +66,7 @@ export const projects = [
       'https://6229f187abc2d817d10f645b--flamboyant-yalow-6e6241.netlify.app/',
     repoLink: 'https://github.com/Bitopan987/GitHub--Battle-Hooks',
   },
-  {
-    title: 'Code Editor',
-    subtitle: 'React App',
-    description: 'This is a live code editor for HTML/CSS made using React',
-    image: './assets/projects/codeEditor1.png',
-    liveLink: 'https://happy-brattain-91d26b.netlify.app/',
-    repoLink: 'https://github.com/Bitopan987/Code-Editor',
-  },
+
   {
     title: 'Flexor Website',
     subtitle: 'HTML/SCSS Project',
@@ -102,4 +113,7 @@ export const skills = [
   'Git/GitHub',
   'SASS/SCSS',
   'Tailwind CSS',
+  'Next.Js',
+  'ChakraUI',
+  'bitBucket',
 ];
